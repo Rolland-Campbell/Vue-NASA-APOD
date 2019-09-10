@@ -18,7 +18,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 //NOTE you need to import you components.
 import Search from "@/components/Search.vue";
 import Picture from "@/components/Picture.vue";
